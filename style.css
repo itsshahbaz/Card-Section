@@ -8,7 +8,11 @@ body{
 
     background: rgb(9,167,242);
     background: linear-gradient(90deg, rgba(9,167,242,1) 0%, rgba(21,198,219,1) 26%, rgba(179,153,227,1) 65%);
-.container{
+
+
+}
+
+    .container{
     /* border: 2px solid red; */
     width: 100%;
     height: 100vh;
